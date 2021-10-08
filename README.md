@@ -2,7 +2,7 @@
 
 
 ## Hi! 👋
-This is the tasks that you gave to me
+This is the tasks that you gave me
 
 ## Instructions for use:
 
