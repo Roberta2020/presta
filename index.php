@@ -8,6 +8,8 @@
 </head>
 <body>
     <?php
+
+$current = $_SERVER['REQUEST_URI'];
 // 1. 
 
 $table = array(
